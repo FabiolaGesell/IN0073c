@@ -1,0 +1,65 @@
+ID;Edad;Tipo;Nueva;Integrantes;Piezas;Tamaño;Presupuesto;Pago;Educacion
+1;41;Departamento;No;5;5;57.41;8155.04;efectivo;Técnico
+2;38;Casa;Sí;4;3;64.27;6223.75;credito;Técnico
+3;37;Departamento;No;5;5;71.53;9607.55;credito;Posgrado
+4;36;Casa;No;5;6;67.64;10459.24;credito;Media completa
+5;39;Casa;Sí;4;5;53.17;9400.37;credito;Posgrado
+6;36;Departamento;No;5;5;70.22;8594.67;credito;Media completa
+7;36;Casa;No;3;2;45.96;4910.4;credito;Posgrado
+8;35;Departamento;No;5;5;68.38;4790.12;credito;Posgrado
+9;39;Casa;No;5;5;63.8;8393.26;credito;Posgrado
+10;37;Casa;No;3;3;54.87;5977.2;credito;Media completa
+11;40;Casa;Sí;3;4;51.69;8752.11;efectivo;Media completa
+12;36;Casa;Sí;5;5;58.32;6222.86;credito;Técnico
+13;35;Casa;No;5;6;50.8;8709.4;credito;Técnico
+14;39;Departamento;No;5;6;54.42;8797.62;credito;Técnico
+15;38;Casa;No;5;5;60.82;8193.15;efectivo;Posgrado
+16;40;Departamento;No;4;5;54.32;7338.27;credito;Media completa
+17;37;Departamento;Sí;5;4;50.75;6926.73;credito;Universitario
+18;33;Casa;No;5;6;50.71;7636.45;credito;Técnico
+19;34;Casa;No;1;2;31.55;4978.78;credito;Media completa
+20;39;Casa;Sí;2;2;43.18;4382.11;credito;Posgrado
+21;38;Departamento;No;4;3;54.53;6797.96;credito;Media completa
+22;35;Departamento;No;5;5;52.04;8501.51;efectivo;Media completa
+23;38;Casa;No;5;4;66.45;9542.18;credito;Posgrado
+24;39;Departamento;No;5;4;53.7;7096.97;credito;Media completa
+25;36;Departamento;Sí;1;0;32.6;2700;credito;Universitario
+26;36;Casa;No;5;5;73.87;7168.63;credito;Media completa
+27;38;Departamento;No;1;0;32.51;2700;credito;Media completa
+28;36;Casa;No;5;4;56.77;6145.05;credito;Media completa
+29;39;Departamento;Sí;5;5;57.46;8701.36;efectivo;Posgrado
+30;38;Departamento;Sí;3;4;49.26;6160.3;credito;Universitario
+31;35;Casa;No;1;0;31.57;2700;credito;Media completa
+32;36;Departamento;No;3;2;41.9;4468.74;credito;Técnico
+33;40;Casa;Sí;4;3;57.72;5103.32;efectivo;Técnico
+34;36;Departamento;No;1;1;30.44;3769.9;credito;Técnico
+35;40;Casa;No;1;2;31.17;4652.15;credito;Universitario
+36;34;Departamento;No;5;6;58.25;7399.54;credito;Universitario
+37;37;Casa;No;2;3;43.48;5183.81;credito;Universitario
+38;34;Departamento;No;4;3;53.7;6223.28;credito;Media completa
+39;41;Casa;Sí;5;4;70.84;7701.37;credito;Universitario
+40;37;Casa;No;5;6;66.26;8443.8;credito;Media completa
+41;34;Departamento;No;4;5;58.56;7797.68;credito;Media completa
+42;38;Casa;No;3;2;42.67;4372.64;credito;Posgrado
+43;36;Departamento;Sí;1;1;34.59;4114.39;credito;Universitario
+44;41;Casa;No;5;6;60.68;9379.36;credito;Técnico
+45;37;Casa;No;5;6;65.42;10095.23;credito;Universitario
+46;35;Casa;Sí;5;4;65.99;7605.19;credito;Técnico
+47;38;Casa;No;5;5;74.22;8003.96;credito;Media completa
+48;39;Departamento;Sí;3;3;52.25;7456.85;credito;Técnico
+49;37;Departamento;No;3;2;49.46;4755.46;credito;Universitario
+50;38;Departamento;Sí;4;4;63.75;6379.5;credito;Media completa
+51;35;Casa;No;1;0;33.88;2700;efectivo;Posgrado
+52;39;Departamento;Sí;1;1;30.4;3621.62;credito;Universitario
+53;40;Casa;No;5;4;69.47;8033.31;efectivo;Técnico
+54;39;Departamento;No;5;4;68.79;6633.76;credito;Técnico
+55;38;Casa;Sí;1;1;34.53;3761.08;credito;Técnico
+56;37;Casa;No;5;5;72.71;9474.55;credito;Técnico
+57;38;Casa;Sí;5;4;59.11;8694.49;credito;Media completa
+58;34;Casa;No;4;4;47.55;4708.94;credito;Universitario
+59;38;Departamento;No;4;3;54.72;5692.81;credito;Media completa
+60;37;Casa;Sí;4;3;50.52;4901.07;credito;Técnico
+61;38;Casa;No;5;6;56.76;6237.9;efectivo;Técnico
+62;40;Departamento;No;5;4;51.73;7514.09;credito;Posgrado
+63;35;Departamento;Sí;5;4;55.15;6729.18;credito;Técnico
+64;42;Casa;No;4;5;48.52;9889.56;credito;Universitario
