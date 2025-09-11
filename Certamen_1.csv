@@ -1,0 +1,57 @@
+Nombre;Producto;Satisfacción;Devolucion;Articulos;Tiempo;Monto
+FLORENCIA CORREA;notebooks;alto;dinero;1;60;719797
+MATIAS REBOLLEDO  ;notebooks;alto;reparación;3;63;800390
+NATALIA VILLALOBOS  ;tablet;medio;reparación;3;45;415946
+AMANDA HERRERA  ;notebooks;alto;reparación;2;76;1197334
+JASON MEJÍAS  ;tablet;medio;cambio;4;45;414441
+ANTONIO MEZA  ;tablet;alto;cambio;1;50;520266
+MARTÍN SÁEZ  ;tablet;bajo;reparación;3;48;474132
+ELÍAS NEIRA;celular;alto;reparación;3;34;99290
+BÁRBARA ORELLANA;notebooks;alto;reparación;3;65;936026
+KARINA CASTILLO  ;tablet;alto;reparación;1;60;741457
+VICENTE ARANEDA  ;tablet;medio;cambio;4;60;748751
+AGUSTÍN MELLA  ;tablet;alto;cambio;1;48;468259
+FRANCISCA LEÓN  ;tablet;medio;reparación;4;49;485322
+AGUSTÍN OLIVA  ;tablet;medio;reparación;2;46;448307
+BENJAMIN VALDEBENITO  ;tablet;medio;reparación;2;50;561190
+AGUSTÍN PEÑA  ;notebooks;medio;cambio;2;44;376497
+FERNANDA SANDOVAL  ;tablet;medio;cambio;1;40;335960
+TIARE CASTILLO  ;tablet;alto;cambio;4;61;754579
+NATALIA RIVAS  ;tablet;bajo;cambio;3;54;632755
+CARLOS VENEGAS  ;celular;medio;reparación;3;34;229829
+IGNACIO ANDRADE  ;celular;alto;cambio;3;34;277974
+BELÈN MERINO  ;tablet;medio;cambio;2;49;474471
+VICENTE ARANEDA  ;notebooks;bajo;cambio;1;50;555333
+JOSÉ ABURTO  ;tablet;alto;cambio;4;50;552177
+VICENTE MUÑOZ  ;tablet;alto;cambio;1;55;651375
+CAROLINA ARAYA  ;tablet;alto;reparación;2;39;335848
+ANTONELA ELGUETA  ;tablet;alto;cambio;1;40;352630
+MARÍA BRAVO  ;celular;alto;reparación;4;22;10839
+BRAIAN MANRÍQUEZ  ;tablet;medio;reparación;3;36;286732
+MAURICIO MOLINA  ;notebooks;alto;cambio;4;47;451554
+BRUNO PARADA  ;tablet;medio;cambio;2;48;457915
+NICOLAS  CUBILLOS  ;tablet;medio;cambio;3;45;383237
+NICOLÁS  ULLOA  ;tablet;alto;reparación;3;56;695667
+SCARLETH  VENEGAS  ;tablet;alto;cambio;2;34;276119
+CONSTANZA  ROA  ;notebooks;bajo;cambio;4;62;797215
+VANESSA  BASCUÑÁN  ;tablet;medio;cambio;2;53;601983
+ALEXIS  SEGURA  ;tablet;medio;reparación;3;54;606464
+ANDRES  SOTO  ;tablet;alto;cambio;3;56;692020
+BENJAMÍN SANDOVAL  ;celular;alto;reparación;3;36;325621
+ISMAEL  BRAVO  ;celular;alto;reparación;2;31;88375
+ANDRÉS  PAVEZ  ;celular;alto;cambio;1;34;236018
+ANTONIA  CASTILLO  ;tablet;bajo;reparación;2;36;281778
+EMILIO  VARELA  ;tablet;medio;cambio;3;49;497013
+NICOLETT  HERNÁNDEZ  ;tablet;medio;cambio;2;44;376064
+KAROLINA  BUSTOS  ;tablet;alto;cambio;4;42;358807
+ALEJANDRO  PONCE  ;tablet;alto;cambio;3;43;361362
+PAOLA  RODRÍGUEZ  ;celular;alto;cambio;1;23;67052
+ANAÍS  REBOLLEDO  ;notebooks;alto;reparación;2;64;888762
+DAMIÁN  CAMPOS  ;tablet;medio;cambio;2;60;721606
+ALEJANDRO  CONSTANZO  ;tablet;medio;reparación;2;51;586904
+ALEXANDER  OPAZO  ;tablet;alto;cambio;1;59;718029
+IVAN  IRRIBARRA  ;celular;alto;cambio;3;38;327366
+ISABEL  LEIVA  ;tablet;alto;reparación;3;55;636122
+FERNANDA  VALDÉS  ;celular;medio;dinero;2;40;345819
+ESPERANZA  VEGA  ;celular;bajo;cambio;3;43;367991
+IGNACIO  CARRASCO  ;tablet;alto;cambio;3;49;499924
