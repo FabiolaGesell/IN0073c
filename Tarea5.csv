@@ -1,4 +1,4 @@
-Marca;Humedad;Temperatura;Presión;ON;Base (ON);Peso
+Marca;Humedad;Temperatura;Presion;Oxido1;Oxido0;Peso
 Chevrolet;72.2;77.7;29.09;0.77;1.24;1359.58
 Chevrolet;96.6;78.7;29.29;0.78;0.69;1248.86
 Chevrolet;107.4;86.8;29.03;0.82;0.16;1094.38
@@ -19,3 +19,4 @@ Chevrolet;31.5;76.9;29.63;1.1;0.68;2059.56
 Chevrolet;10.6;86.3;29.56;1.1;1.11;1607.7
 Fuso;11.2;86;29.48;1.1;0.73;1952.56
 Fuso;8.3;66.8;29.69;1.15;0.47;1641.09
+
